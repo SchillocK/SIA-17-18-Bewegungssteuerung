@@ -1,0 +1,15 @@
+http://www.instructables.com/id/Use-an-Accelerometer-and-Gyroscope-with-Arduino/			[Grundlagen zu Kreiselbeschleunigungsmessern mit dem Arduino]
+
+https://diyhacking.com/arduino-mpu-6050-imu-sensor-tutorial/						[Grundlagen zum MPU-6050]
+
+https://forum.arduino.cc/index.php?topic=112329.0							[Arduino UNO als Maus]
+
+https://blog.petrockblock.com/2012/05/19/usb-keyboard-with-arduino-and-v-usb-library-an-example/	[Arduino UNO output via V-USB Library]
+
+https://www.youtube.com/watch?v=bTlM27jzOIQ								[Mehr Info zu V-USB]
+
+http://people.ece.cornell.edu/land/courses/ece4760/FinalProjects/s2010/ss868_jfe5/ss868_jfe5/index.html	[Orientiermöglichkeit]
+
+https://github.com/meirm/UsbMouse									[Mögliche Vorlage]
+
+http://www.instructables.com/id/Make-arduino-uno-work-like-leonardo/					[Ansatz um dem UNO die gleichen IDE-Eigenschaften wie dem Leonardo zu geben]
